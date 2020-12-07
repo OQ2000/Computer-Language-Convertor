@@ -1,4 +1,5 @@
 import os
+import math
 clear = lambda: os.system('cls')
 clear()
 
